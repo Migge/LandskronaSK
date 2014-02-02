@@ -23,7 +23,7 @@ compile '/' do
   layout 'default'
 end
 
-compile %r</kontakt|/rating|/verksamhet> do
+compile %r</kontakt|/rating|/verksamhet|/dagens> do
   filter :kramdown
   layout 'default'
 end
