@@ -18,7 +18,12 @@ compile '/stylesheet/' do
   # don’t filter or layout
 end
 
-compile %r<(/|/rating)> do
+compile '/' do
+  filter :kramdown
+  layout 'default'
+end
+
+compile %r</kontakt|/rating|/verksamhet> do
   filter :kramdown
   layout 'default'
 end
