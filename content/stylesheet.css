@@ -23,7 +23,7 @@ a:hover {
 }
 
 #main {
-  position: absolute;
+  position: relative;
 
   top: 40px;
   left: 280px;
