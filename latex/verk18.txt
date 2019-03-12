@@ -1,0 +1,377 @@
+\title{Landskrona Schackklubbs verksamhetsberättelse för år 2018}
+\date{5 mars 2018}
+
+\maketitle
+
+\newpage
+
+Styrelsen
+=========
+
+Styrelsens sammansättning {#styrelsens-sammansättning .unnumbered}
+-------------------------
+
+Under verksamhetsåret 2018 har styrelsen haft följande sammansättning:
+
+-----------------   ----------
+*Ordförande*        Mikael Svensson
+*Vice Ordförande*   XXX
+*Kassör*            XXX
+*Sekreterare*       XXX
+*Övriga ledamöter*  Roland, Fredrik, Sven, Magnus
+*Suppleant*         Jonathan Henricsson
+-----------------   -----------
+
+Övriga funktioner {#övriga-funktioner .unnumbered}
+-----------------
+
+-----------------     ------------------
+*Revisorer*           Alve Pålsson och Mats Håkansson
+*Revisorsuppleant*    Olof Barr
+*Ungdomsledare*       Mikael Svensson
+*Lagledare*           Mikael Svensson
+*Tävlingsledare*      Mikael Svensson
+*Materialförvaltare*  _vakant_
+*Bingolottoansvarig*  Mikael Svensson
+*Webbansvarig*        Mikael Svensson
+*Valberedning*        Lars Anderberg, Martin Ström
+-----------------     --------------------
+
+Styrelsens sammanträden {#styrelsens-sammanträden .unnumbered}
+-----------------------
+
+Styrelsen har under året genomfört XX protokollförda sammanträden.
+
+Antalet medlemmar
+=================
+
+31 december 2017 var antalet medlemmar 31 stycken fördelade på 7
+juniorer och 24 seniorer. 31 december 2018 var antalet medlemmar XX
+stycken fördelade på XX juniorer och XX seniorer. En (minskning|ökning)
+med totalt XX medlemmar med andra ord.
+
+\newpage
+
+Representation
+==============
+
+Vid distriktförbundet NVSSF:s årsmöte den 10 mars 2018 representerades
+klubben av Mikael Svensson som dessutom fick det ärofyllda uppdraget att
+leda mötet för sjätte året i rad.
+
+Klubbens årsmöte för verksamhetsåret 2017
+=========================================
+
+Årsmötet genomfördes *tisdagen den 20 mars 2018*. 10 st medlemmar var
+närvarande. Till att leda årsmötet utsågs Mikael Svensson. Efter mötet
+bjöds det på förtäring och därefter en blixtturnering vars resultat
+återfinns under rubriken *Klubbens tävlingar*.
+
+Klubbens tävlingar
+==================
+
+[//]: # (Inget Snabb-KM i år)
+
+
+Årsmötesblixten {#årsmötesblixten .unnumbered}
+---------------
+
+-   Datum: 20 mars 2018
+
+-   Lottning: 5 ronder Monrad
+
+-   Betänketid: 5 minuter/spelare
+
+ Pl.    Namn                  Poäng      Kvalitet
+-----   ----                 -------    ----------
+  1  	Mikael Svensson     	5    	   10.5
+  2 	Robert Tonoyan          4    	   12.0
+  3  	Martin Andersen         3    	   13.0
+  4  	Magnus Kullberg         2    	   14.5
+  5  	Sven Nilsson            2    	   14.0
+  6  	Fredrik Juhlin          2    	   11.5
+  7  	Lars Anderberg     	2    	   10.5
+  8  	Roland Schmidt      	0    	    3.5
+
+
+Klubbmästerskapet {#klubbmästerskapet .unnumbered}
+-----------------
+
+-   Datum: Våren 2018
+
+-   Lottning: Berger
+
+-   Betänketid: 90m/40 drag + 30s/drag
+
+### Klass I {#km-klass-i .unnumbered}
+
+ Pl.  Namn                  1   2   3   4   5   6   7   Poäng
+----- -------------------  --- --- --- --- --- --- --- -------
+  1   Robert Tonoyan        \*  ½   1   1   1   1   ½     6
+  2   Mikael Svensson       ½   \*  1   1   1   0   ½     5
+  3   Olof Barr             0   0   \*  1   1   1   ½     4½
+  4   Sven Nilsson          0   0   0   \*  ½   1   1     3
+  5   Esad Kahriman         0   0   0   ½   \*  ½   1     3
+  6   Mats Nordström        0   1   0   0   ½   \*  ½     3
+  7   Cezar Frankovic       ½   ½   ½   0   0   ½   \*    3
+
+
+### Klass II {#km-klass-ii .unnumbered}
+
+ Pl.  Namn                    1   2   3   4   5   6   7   Poäng
+----- ---------------------  --- --- --- --- --- --- --- -------
+  1   Olof Barr               \*  1   ½   1   1   1   1     6½
+  2   Fredrik Juhlin          0   \*  1   ½   1   1   1     5½
+  3   Martin Andersen         ½   0   \*  1   ½   1   1     5
+  4   Martin Ström            0   ½   0   \*  1   ½   1     4
+  5   Lars Anderberg          0   0   ½   0   \*  1   1     3
+  6   Johan Sjölander         0   0   0   ½   0   \*  ½     2
+  7   Christer Wickman        0   0   0   0   0   ½   \*    ½
+
+
+Sommarblixten {#sommarblixten .unnumbered}
+-------------
+
+-   Datum: 30 maj 2017
+
+-   Lottning: 6 ronder Monrad
+
+ Pl.    Namn                  Poäng   Kvalitet
+-----   -----------------    ------- ----------
+  1  	Robert Tonoyan         6       18.0
+  2  	Fredrik Juhlin         4.5     16
+  3  	Sven Nilsson           4       19
+  4  	Mattias Arthursson     4       16.5
+  5  	Mikael Svensson        3.5     20.0
+  6  	Olof Barr              3       20.0
+  7   	Tord Olsson            3       17.0
+  8  	Martin Andersen        3       16.0
+  9  	Johan Sjölander        2       17.0
+        Roland Schmidt         2       17.0
+ 11     Erik Andersson         1       14.0
+
+\newpage
+
+Snabb-LM {#snabb-lm .unnumbered}
+--------
+
+-   Datum: September 2017
+
+-   Lottning: 6 ronder Monrad
+
+-   Betänketid: 25 minuter/spelare
+
+ Pl.   Namn                    Poäng     Kvalitet
+-----  ----                   -------   ----------
+  1    Mikael Svensson          6    	  17.5
+  2    Robert Tonoyan           5    	  16.5
+  3    Gert Lyngsjö             4    	  18.0
+  4    Tord Olsson              3         19.5
+  5    Johan Sjölander          3    	  18.0
+  6    Martin Andersen          3    	  15.0
+  7    Olof Barr                2         18.0
+       Fredrik Juhlin           2    	  18.0
+  9    Jonathan Henricsson      1    	  16.5
+ 10    Roland Schmidt           1    	  15.0
+ 
+
+Landskronamästerskapet {#landskronamästerskapet .unnumbered}
+----------------------
+
+-   Datum: Hösten 2017
+
+-   Lottning: Berger
+
+-   Betänketid: 90m/40 drag + 30s/drag
+
+### Klass I {#lm-klass-i .unnumbered}
+
+ Pl.  Namn                  1   2   3   4   5   6   7   Poäng
+----- -------------------  --- --- --- --- --- --- --- -------
+  1   Mikael Svensson       \*  1   1   1   1   1   1     6
+  2   Robert Tonoyan        0   \*  ½   1   1   1   1     4½
+  3   Cezar Frankovic       0   ½   \*  ½   1   1   1     4
+  4   Sven Nilsson          0   0   ½   \*  ½   1   1     3
+  5   Magnus Kullberg       0   0   0   ½   \*  1   0     1½
+  6   Olof Barr             0   0   0   0   0   \*  1     1
+  7   Esad Kahriman         0   0   0   0   1   0   \*    1
+
+\newpage
+
+### Klass II {#lm-klass-ii .unnumbered}
+
+ Pl.  Namn                    1   2   3   4   5   6   7   Poäng
+----- ---------------------  --- --- --- --- --- --- --- -------
+  1   Martin Andersen         \*  ½   1   1   0   ½   1     4
+  2   Mats Nordström          ½   \*  1   0   ½   1   1     4
+  3   Mattias Arthursson      0   0   \*  1   1   1   1     4
+  4   Fredrik Juhlin          0   1   0   \*  1   0   1     3
+  5   Lars Anderberg          1   ½   0   0   \*  ½   ½     2½
+  6   Johan Sjölander         ½   0   0   1   ½   \*  0     2
+  7   Roland Schmidt          0   0   0   0   ½   1   \*    1½
+
+
+Julblixten {#julblixten .unnumbered}
+----------
+
+-   Datum: 12 december 2017
+
+-   Lottning: 6 ronder Monrad
+
+-   Betänketid: 5 minuter/spelare
+
+ Pl.    Namn                  Poäng      Kvalitet
+-----   -------------------  -------    ----------
+  1  	Mikael Svensson         5    	   19.0
+  2  	Tord Olsson             4    	   19.0
+  3  	Robert Tonoyan          4    	   16.0
+  4  	Esad Kahriman           4    	   17.5
+  5  	Martin Andersen         4    	   16.5
+  6  	Sven Nilsson            4    	   13.5
+  7  	Mats Nordström          3    	   19.5
+  8  	Johan Sjölander         3    	   16.5
+  9   	Lars Anderberg          2    	   17.5
+ 10  	Mattias Arthursson      2    	   16.0
+ 11    	Roland Schmidt          1    	   16.5
+
+\newpage
+
+Seriespel
+=========
+
+Allsvenskan div. III gr. 8, 2016/2017 {#allsvenskan .unnumbered}
+-----------------------------
+
+ *Pl.*  *Lag*                     *sp.*   *+*   *=*   *-*   *pp*    *mp*
+------- ------------------------ ------- ----- ----- ----- ------- ------
+   1    Helsingborgs SA II          6      5     0     1     34      10
+   2    Helsingborgs SA III         6      4     1     1     27.5    9
+   3    **Landskrona SK**           6      4     0     2     29.5    8
+   4    Åstorps SS II               6      3     0     3     24.5    6
+   5    Skromberga ASS              6      2     1     3     23      5
+   6    Engelholms SK               6      2     0     4     21      4
+   7    Åstorps SS III              6      0     0     6     8.5     0
+
+
+Tävlingar utanför klubben
+=========================
+
+Amateur World Chess Championship, Kos {#aco .unnumbered}
+----------------------------------------
+
+Amatör-VM ägde i år rum på ön Kos i Grekland mellan den 6-15 maj. Det
+var den 6:e gången tävlingen arrangeras, och tredje året i rad på samma
+ställe på Kos. Mikael Svensson har deltagit samtliga år och i år deltog
+även Tord Olsson som också varit med förut.
+
+Mikael spelade i grupp B för spelare mellan 2000-2200 medan Tord spelade
+i grupp C för spelare mellan 1800-2000.
+
+Båda spelarna hade tätkänning större delen av tävlingen; bl.a. så
+inledde Tord med fyra raka vinster. Det räckte inte hela vägen men båda
+fick klart godkända placeringar. Tord med utmärkta 6 poäng av 9 hamnade
+på plats 7 av 65 startande i sin grupp medan Mikael kom på plats 12 av
+43 med 5 poäng av 9.
+
+SM i Stockholm {#sm-uppsala .unnumbered}
+------------
+
+Landskrona deltog inte i nån av de sanktionerade tävlingarna, men Gert
+Lyngsjö spelade återigen i en av weekend-turneringarna och tog 2 poäng
+av 5 i sin 12-mannagrupp.
+
+\newpage
+
+Elite Hotels Open {#elite-hotels-open .unnumbered}
+-------------------
+
+10-12 februari 2017 så spelades denna weekendturnering i Växjö där
+Mikael Svensson och Magnus Kullberg deltog. Magnus som ELO-orankad i
+huvudtävlingen hade konsekvent tufft motstånd och fick till slut 2,5
+poäng av de 8 ronderna. Mikael gjorde en kanoninsats med 5 poäng av 8,
+där poäng togs både mot en IM och en FM, och i den spännande slutronden
+fanns även goda vinstchanser mot IM Ari Ziegler som tyvärr sumpades i
+tidsnöden.
+
+Deltalift Open {#deltalift-open .unnumbered}
+--------------------
+
+Gert Lyngsjö var den enda från Landskrona som deltog i årets upplaga av
+Deltalift Open på Hotell Tylösand i Halmstad 4-6 maj. Han tog 3 poäng av
+8 i den tuffa tävlingen som samlade 144 deltagare.
+
+CellaVision Chess Cup {#cellavision .unnumbered}
+---------------------
+
+På Elite Hotel vid Ideon i Lund 4-6 augusti ställde klubben i år upp med
+5 spelare; Mikael Svensson, Gert Lyngsjö, Martin Andersen och Olof Barr
+i den stora gruppen, och Johan Sjölander i den lilla gruppen. Mikael tog
+4 poäng, Olof och Gert tog båda 2,5 poäng, Martin fick 2 poäng och Johan
+fick 3 poäng över totalt 8 ronder.
+
+Västerås Open {#vasteras-open .unnumbered}
+---------------------
+
+Som vanligt i månadsskiftet september-oktober så spelades Västerås Open
+som förmodligen är den största weekendturneringen i landet. Mikael
+Svensson ställde upp och tog 4 poäng av 8.
+
+Malmö Open {#malmö-open .unnumbered}
+----------
+
+Traditionellt sett så är det Malmö Open som lockar flest
+Landskronaspelare av alla weekendturneringar under året, men i år deltog
+endast två spelare: Esad Kahriman och Johan Sjölander. Johan tog 3,5
+poäng av 8 i den lilla gruppen (MSF Open) medan Esad gjorde en strålande
+insats i den stora gruppen som en av de lägre rankade i startfältet och
+tog 4,5 poäng av 8 med en prestationsrating på över 2000.
+
+\newpage
+
+Hasselbackens jubileumsturnering {#hasselbacken .unnumbered}
+-------------------
+
+Denna snabbschacksturnering, som är av lite exklusivare karaktär, är en
+tävling som Landskrona sällan deltagit i, men i år deltog Tord Olsson
+som spelade i veterangruppen (50+). Tävlingen utgjorde samtidigt SM i
+snabbschack.
+
+En oerhört stark grupp. Tord tog till slut 4,5 poäng av 11 men
+presentationsratingen speglade ändå ungefär Tords riktiga rating vilket
+tydligt visar på hur stark gruppen var.
+
+
+Juniorverksamheten
+==================
+
+Traditionsenligt så har klubben haft juniorträning om onsdagarna klockan
+17, och så smått så börjar vi äntligen se en liten ökning på antalet
+juniorer i klubben, och då tänker man främst på antalet aktiva. På
+pappret ser det inte ut som någon större förändring, men på onsdagarna
+så ser man en större aktivitet vilket inte minst märks på ljudvolymen.
+
+En del DM-tävlingar spelades under året där samtliga spelades i
+Helsingborgs SS lokaler på Trädgårdsgatan i Helsingborg. Den mest
+framskjutna placeringen var en andraplats av Arvid Månsson, som vid två
+tillfällen kommit på andra plats efter en oturlig särskiljning med
+förstaplatsen.
+
+Den enskilt största schacktävlingen som vi åkte iväg till i grupp var
+Skånska Skolmästerskapen som namnet till trots är en individuell tävling
+men där samtidigt bästa skola utses. Loke Jönsson, Anton Engkvist och
+Casper Helgesson deltog där och vi var alla överens om att motståndet
+var stentufft och resultaten kom därefter.
+
+Anton Engkvist åkte även iväg på egen hand med sin familj till Skol-SM
+som i år spelades i Katrineholm och Anton spelade i grupp F för
+11-åringar och vann 3 matcher av 11 och spelade en remi.
+
+Avslutningsvis så åkte Casper, Arvid och Anton iväg på ett schackläger
+2-5 juli på Söderåsen. Väldigt kul att de åkte iväg på detta trots att
+ingen ledare från klubben kunde följa med! Såna läger är bra för
+gemenskapen och även för själv träningens skull!
+
+
+[//]: # (Ingen ratinglista i år)
+
+[//]: # (Avvaktar med sektionerna för bilagor och slutord)
