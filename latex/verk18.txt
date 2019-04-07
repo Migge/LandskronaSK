@@ -132,23 +132,24 @@ Klubbmästerskapet {#klubbmästerskapet .unnumbered}
 Sommarblixten {#sommarblixten .unnumbered}
 -------------
 
--   Datum: 30 maj 2017
+-   Datum: 20 maj 2018
 
 -   Lottning: 6 ronder Monrad
 
  Pl.    Namn                  Poäng   Kvalitet
 -----   -----------------    ------- ----------
-  1  	Robert Tonoyan         6       18.0
-  2  	Fredrik Juhlin         4.5     16
-  3  	Sven Nilsson           4       19
-  4  	Mattias Arthursson     4       16.5
-  5  	Mikael Svensson        3.5     20.0
-  6  	Olof Barr              3       20.0
-  7   	Tord Olsson            3       17.0
-  8  	Martin Andersen        3       16.0
-  9  	Johan Sjölander        2       17.0
-        Roland Schmidt         2       17.0
- 11     Erik Andersson         1       14.0
+  1  	Esad Kahriman          5.5     16.5
+  2     Robert Tonoyan         4.5     18.5
+  3     Mikael Svensson        4       18.0
+  4     Mats Nordström         3.5     14.5
+  5     Sven Nilsson           3       19.5
+  6     Fredrik Juhlin         3       18.5
+  7     Gert Lyngsjö           3       15.0
+  8     Roland Schmidt         3       13.5
+  9     Martin Ström           2.5     15.5
+ 10     Olof Barr              2       18.5
+ 11     Martin Andersen        2       18.0
+ 12     Christer Wickman       0       17.5
 
 \newpage
 
