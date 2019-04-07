@@ -151,7 +151,6 @@ Sommarblixten {#sommarblixten .unnumbered}
  11     Martin Andersen        2       18.0
  12     Christer Wickman       0       17.5
 
-\newpage
 
 Snabb-LM {#snabb-lm .unnumbered}
 --------
@@ -177,37 +176,28 @@ Snabb-LM {#snabb-lm .unnumbered}
 Landskronamästerskapet {#landskronamästerskapet .unnumbered}
 ----------------------
 
--   Datum: Hösten 2017
+-   Datum: Hösten 2018
 
--   Lottning: Berger
+-   Lottning: 6 ronder schweizer
 
 -   Betänketid: 90m/40 drag + 30s/drag
 
-### Klass I {#lm-klass-i .unnumbered}
-
- Pl.  Namn                  1   2   3   4   5   6   7   Poäng
------ -------------------  --- --- --- --- --- --- --- -------
-  1   Mikael Svensson       \*  1   1   1   1   1   1     6
-  2   Robert Tonoyan        0   \*  ½   1   1   1   1     4½
-  3   Cezar Frankovic       0   ½   \*  ½   1   1   1     4
-  4   Sven Nilsson          0   0   ½   \*  ½   1   1     3
-  5   Magnus Kullberg       0   0   0   ½   \*  1   0     1½
-  6   Olof Barr             0   0   0   0   0   \*  1     1
-  7   Esad Kahriman         0   0   0   0   1   0   \*    1
-
-\newpage
-
-### Klass II {#lm-klass-ii .unnumbered}
-
- Pl.  Namn                    1   2   3   4   5   6   7   Poäng
------ ---------------------  --- --- --- --- --- --- --- -------
-  1   Martin Andersen         \*  ½   1   1   0   ½   1     4
-  2   Mats Nordström          ½   \*  1   0   ½   1   1     4
-  3   Mattias Arthursson      0   0   \*  1   1   1   1     4
-  4   Fredrik Juhlin          0   1   0   \*  1   0   1     3
-  5   Lars Anderberg          1   ½   0   0   \*  ½   ½     2½
-  6   Johan Sjölander         ½   0   0   1   ½   \*  0     2
-  7   Roland Schmidt          0   0   0   0   ½   1   \*    1½
+ Pl.    Namn                  Poäng   Kvalitet
+-----   -----------------    ------- ----------
+  1  	Mikael Svensson        5.5     20.0
+  2     Esad Kahriman          5.0     19.0
+  3     Robert Tonoyan         4       19.5
+  4     Cezar Frankovic        3.5     19.0
+  5     Sven Nilsson           3       18.5
+  6     Olof Barr              3       17.5
+  7     Mats Nordström         3       16.5
+  8     Pan Härdfeldt          3       14.0
+  9     Martin Ström           3       13.5
+ 10     Fredrik Juhlin         2.5     16.5
+ 11     Martin Andersen        2.5     16.0
+ 12     Roland Schmidt         2.5     14.0
+ 13     Rio Phillips           1       14.0
+ 14     Christer Wickman       0.5     13.5
 
 
 Julblixten {#julblixten .unnumbered}
