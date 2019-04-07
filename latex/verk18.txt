@@ -1,5 +1,5 @@
 \title{Landskrona Schackklubbs verksamhetsberättelse för år 2018}
-\date{5 mars 2018}
+\date{25 mars 2019}
 
 \maketitle
 
@@ -15,10 +15,10 @@ Under verksamhetsåret 2018 har styrelsen haft följande sammansättning:
 
 -----------------   ----------
 *Ordförande*        Mikael Svensson
-*Vice Ordförande*   XXX
-*Kassör*            XXX
-*Sekreterare*       XXX
-*Övriga ledamöter*  Roland, Fredrik, Sven, Magnus
+*Vice Ordförande*   Roland Schmidt
+*Kassör*            Sven Nilsson
+*Sekreterare*       Fredrik Juhlin
+*Övriga ledamöter*  Magnus Kullberg
 *Suppleant*         Jonathan Henricsson
 -----------------   -----------
 
@@ -40,15 +40,15 @@ Under verksamhetsåret 2018 har styrelsen haft följande sammansättning:
 Styrelsens sammanträden {#styrelsens-sammanträden .unnumbered}
 -----------------------
 
-Styrelsen har under året genomfört XX protokollförda sammanträden.
+Styrelsen har under året genomfört 2 protokollförda sammanträden.
 
 Antalet medlemmar
 =================
 
 31 december 2017 var antalet medlemmar 31 stycken fördelade på 7
-juniorer och 24 seniorer. 31 december 2018 var antalet medlemmar XX
-stycken fördelade på XX juniorer och XX seniorer. En (minskning|ökning)
-med totalt XX medlemmar med andra ord.
+juniorer och 24 seniorer. 31 december 2018 var antalet medlemmar 30
+stycken fördelade på 10 juniorer och 20 seniorer. En minskning med 1
+medlem.
 
 \newpage
 
