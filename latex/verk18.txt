@@ -94,6 +94,8 @@ Klubbens tävlingar
   8  	Roland Schmidt      	0    	    3.5
 
 
+\newpage
+
 Klubbmästerskapet {#klubbmästerskapet .unnumbered}
 -----------------
 
@@ -128,6 +130,8 @@ Klubbmästerskapet {#klubbmästerskapet .unnumbered}
   6   Johan Sjölander         0   0   0   0   0   \*  1     1
   7   Lars Anderberg          0   0   0   0   ½   0   \*    ½
 
+
+\newpage
 
 Sommarblixten {#sommarblixten .unnumbered}
 -------------
@@ -173,6 +177,8 @@ Snabb-LM {#snabb-lm .unnumbered}
   8    Fredrik Juhlin           0         15.5
  
 
+\newpage
+
 Landskronamästerskapet {#landskronamästerskapet .unnumbered}
 ----------------------
 
@@ -199,6 +205,8 @@ Landskronamästerskapet {#landskronamästerskapet .unnumbered}
  13     Rio Phillips           1       14.0
  14     Christer Wickman       0.5     13.5
 
+
+\newpage
 
 Julblixten {#julblixten .unnumbered}
 ----------
@@ -229,6 +237,8 @@ Julblixten {#julblixten .unnumbered}
 
 Mikael Svensson vinnare efter särspel.
 
+
+\newpage
 
 Seriespel
 =========
