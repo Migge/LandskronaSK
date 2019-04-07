@@ -107,26 +107,26 @@ Klubbmästerskapet {#klubbmästerskapet .unnumbered}
 
  Pl.  Namn                  1   2   3   4   5   6   7   Poäng
 ----- -------------------  --- --- --- --- --- --- --- -------
-  1   Robert Tonoyan        \*  ½   1   1   1   1   ½     6
-  2   Mikael Svensson       ½   \*  1   1   1   0   ½     5
-  3   Olof Barr             0   0   \*  1   1   1   ½     4½
-  4   Sven Nilsson          0   0   0   \*  ½   1   1     3
-  5   Esad Kahriman         0   0   0   ½   \*  ½   1     3
-  6   Mats Nordström        0   1   0   0   ½   \*  ½     3
-  7   Cezar Frankovic       ½   ½   ½   0   0   ½   \*    3
+  1   Robert Tonoyan        \*  ½   1   1   1   1   1     5½
+  2   Mikael Svensson       ½   \*  1   1   1   1   1     5½
+  3   Mats Nordström        0   0   \*  1   ½   0   1     2½
+  4   Esad Kahriman         0   0   0   \*  1   ½   1     2½
+  5   Sven Nilsson          0   0   ½   0   \*  1   1     2½
+  6   Olof Barr             0   0   1   ½   0   \*  ½     2
+  7   Cezar Frankovic       0   0   0   0   0   ½   \*    ½
 
 
 ### Klass II {#km-klass-ii .unnumbered}
 
  Pl.  Namn                    1   2   3   4   5   6   7   Poäng
 ----- ---------------------  --- --- --- --- --- --- --- -------
-  1   Olof Barr               \*  1   ½   1   1   1   1     6½
-  2   Fredrik Juhlin          0   \*  1   ½   1   1   1     5½
-  3   Martin Andersen         ½   0   \*  1   ½   1   1     5
-  4   Martin Ström            0   ½   0   \*  1   ½   1     4
-  5   Lars Anderberg          0   0   ½   0   \*  1   1     3
-  6   Johan Sjölander         0   0   0   ½   0   \*  ½     2
-  7   Christer Wickman        0   0   0   0   0   ½   \*    ½
+  1   Fredrik Juhlin          \*  1   1   0   1   1   1     5
+  2   Martin Andersen         0   \*  1   1   1   1   1     5
+  3   Martin Ström            0   0   \*  1   1   1   1     4
+  4   Roland Schmidt          1   0   0   \*  1   1   1     4
+  5   Christer Wickman        0   0   0   0   \*  1   ½     1½
+  6   Johan Sjölander         0   0   0   0   0   \*  1     1
+  7   Lars Anderberg          0   0   0   0   ½   0   \*    ½
 
 
 Sommarblixten {#sommarblixten .unnumbered}
