@@ -233,18 +233,27 @@ Mikael Svensson vinnare efter särspel.
 Seriespel
 =========
 
-Allsvenskan div. III gr. 8, 2016/2017 {#allsvenskan .unnumbered}
+Allsvenskan div. III gr. 9, 2017/2018 {#allsvenskan .unnumbered}
 -----------------------------
 
  *Pl.*  *Lag*                     *sp.*   *+*   *=*   *-*   *pp*    *mp*
 ------- ------------------------ ------- ----- ----- ----- ------- ------
-   1    Helsingborgs SA II          6      5     0     1     34      10
-   2    Helsingborgs SA III         6      4     1     1     27.5    9
-   3    **Landskrona SK**           6      4     0     2     29.5    8
-   4    Åstorps SS II               6      3     0     3     24.5    6
-   5    Skromberga ASS              6      2     1     3     23      5
-   6    Engelholms SK               6      2     0     4     21      4
-   7    Åstorps SS III              6      0     0     6     8.5     0
+   1    Falkenbergs SK              6      5     1     0     31      11
+   2    **Landskrona SK**           6      5     1     0     30.5    11
+   3    Engelholms SK               6      3     0     3     23.5    6
+   4    Helsingborgs SA III         6      2     1     3     24      5
+   5    Skromberga ASS              6      2     1     3     20.5    5
+   6    Helsingborgs SA IV          6      1     0     5     19.5    2
+   7    Åstorps SS II               6      1     0     5     19      2
+
+Sista matchen var oerhört spännande, med ett återstående parti kvar i
+Falkenbergs respektive vår sista match. Remi hade räckt i sista partiet,
+med facit i hand, men det visste vi inte då och därför fick vår spelare
+hålla liv i partiet. Det ledde istället till förlust.
+
+Dock så gick klubben ändå upp till division II inför kommande säsong! I
+kraft av bästa tvåa av alla grupperna i division III så knep klubben en
+vakant plats i division II.
 
 
 Tävlingar utanför klubben
