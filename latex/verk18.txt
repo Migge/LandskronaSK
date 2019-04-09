@@ -103,7 +103,7 @@ Klubbmästerskapet {#klubbmästerskapet .unnumbered}
 
 -   Lottning: Berger
 
--   Betänketid: 90m/40 drag + 30s/drag
+-   Betänketid: 90m + 30s/drag
 
 ### Klass I {#km-klass-i .unnumbered}
 
@@ -186,7 +186,7 @@ Landskronamästerskapet {#landskronamästerskapet .unnumbered}
 
 -   Lottning: 6 ronder schweizer
 
--   Betänketid: 90m/40 drag + 30s/drag
+-   Betänketid: 90m + 30s/drag
 
  Pl.    Namn                  Poäng   Kvalitet
 -----   -----------------    ------- ----------
